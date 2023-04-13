@@ -1,4 +1,4 @@
-# Search-for-clients-of-a-telecom-company-with-non-optimal-tariffs
+# Search for clients of a telecom company with non optimal tariffs
 
 # Поиск клиентов телеком компании с неоптимальными тарифами
  
