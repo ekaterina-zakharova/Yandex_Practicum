@@ -1,4 +1,4 @@
-# Dashboard-by-user-events
+# Dashboard by user events
 
 # Создание дашборда по пользовательским событиям для агрегатора новостей
 
